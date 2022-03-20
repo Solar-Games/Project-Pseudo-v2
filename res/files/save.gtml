@@ -1,0 +1,7 @@
+var controls: [
+  down: [40],
+  left: [37],
+  right: [39],
+  up: [38],
+  select: [10, 90]
+]
